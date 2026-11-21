@@ -1,0 +1,279 @@
+{
+  "category": "ppf",
+  "lastUpdatedOn": "2026-11-21T13:05:00+05:30",
+  "entries": [
+    {
+      "startDate": "2020-04-01",
+      "endDate": "2026-12-31",
+      "financialYears": [
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25",
+        "2025-26",
+        "2026-27"
+      ],
+      "value": 7.1
+    },
+    {
+      "startDate": "2019-07-01",
+      "endDate": "2020-03-31",
+      "financialYears": [
+        "2019-20"
+      ],
+      "value": 7.9
+    },
+    {
+      "startDate": "2018-10-01",
+      "endDate": "2019-06-30",
+      "financialYears": [
+        "2018-19",
+        "2019-20"
+      ],
+      "value": 8
+    },
+    {
+      "startDate": "2018-01-01",
+      "endDate": "2018-09-30",
+      "financialYears": [
+        "2017-18",
+        "2018-19"
+      ],
+      "value": 7.6
+    },
+    {
+      "startDate": "2017-07-01",
+      "endDate": "2017-12-31",
+      "financialYears": [
+        "2017-18"
+      ],
+      "value": 7.8
+    },
+    {
+      "startDate": "2017-04-01",
+      "endDate": "2017-06-30",
+      "financialYears": [
+        "2017-18"
+      ],
+      "value": 7.9
+    },
+    {
+      "startDate": "2016-10-01",
+      "endDate": "2017-03-31",
+      "financialYears": [
+        "2016-17"
+      ],
+      "value": 8
+    },
+    {
+      "startDate": "2016-04-01",
+      "endDate": "2016-09-30",
+      "financialYears": [
+        "2016-17"
+      ],
+      "value": 8.1
+    },
+    {
+      "startDate": "2013-04-01",
+      "endDate": "2016-03-31",
+      "financialYears": [
+        "2013-14",
+        "2014-15",
+        "2015-16"
+      ],
+      "value": 8.7
+    },
+    {
+      "startDate": "2012-04-01",
+      "endDate": "2013-03-31",
+      "financialYears": [
+        "2012-13"
+      ],
+      "value": 8.8
+    },
+    {
+      "startDate": "2011-12-01",
+      "endDate": "2012-03-31",
+      "financialYears": [
+        "2011-12"
+      ],
+      "value": 8.6
+    },
+    {
+      "startDate": "2003-03-01",
+      "endDate": "2011-11-30",
+      "financialYears": [
+        "2002-03",
+        "2003-04",
+        "2004-05",
+        "2005-06",
+        "2006-07",
+        "2007-08",
+        "2008-09",
+        "2009-10",
+        "2010-11",
+        "2011-12"
+      ],
+      "value": 8
+    },
+    {
+      "startDate": "2002-03-01",
+      "endDate": "2003-02-28",
+      "financialYears": [
+        "2001-02",
+        "2002-03"
+      ],
+      "value": 9
+    },
+    {
+      "startDate": "2001-03-01",
+      "endDate": "2002-02-28",
+      "financialYears": [
+        "2000-01",
+        "2001-02"
+      ],
+      "value": 9.5
+    },
+    {
+      "startDate": "2000-01-15",
+      "endDate": "2001-02-28",
+      "financialYears": [
+        "1999-00",
+        "2000-01"
+      ],
+      "value": 11
+    },
+    {
+      "startDate": "1999-04-01",
+      "endDate": "2000-01-14",
+      "financialYears": [
+        "1999-00"
+      ],
+      "value": 12
+    },
+    {
+      "startDate": "1986-04-01",
+      "endDate": "1999-03-31",
+      "financialYears": [
+        "1986-87",
+        "1987-88",
+        "1988-89",
+        "1989-90",
+        "1990-91",
+        "1991-92",
+        "1992-93",
+        "1993-94",
+        "1994-95",
+        "1995-96",
+        "1996-97",
+        "1997-98",
+        "1998-99"
+      ],
+      "value": 12
+    },
+    {
+      "startDate": "1985-04-01",
+      "endDate": "1986-03-31",
+      "financialYears": [
+        "1985-86"
+      ],
+      "value": 10
+    },
+    {
+      "startDate": "1984-04-01",
+      "endDate": "1985-03-31",
+      "financialYears": [
+        "1984-85"
+      ],
+      "value": 9.5
+    },
+    {
+      "startDate": "1983-04-01",
+      "endDate": "1984-03-31",
+      "financialYears": [
+        "1983-84"
+      ],
+      "value": 9
+    },
+    {
+      "startDate": "1981-04-01",
+      "endDate": "1983-03-31",
+      "financialYears": [
+        "1981-82",
+        "1982-83"
+      ],
+      "value": 8.5
+    },
+    {
+      "startDate": "1980-04-01",
+      "endDate": "1981-03-31",
+      "financialYears": [
+        "1980-81"
+      ],
+      "value": 8
+    },
+    {
+      "startDate": "1977-04-01",
+      "endDate": "1980-03-31",
+      "financialYears": [
+        "1977-78",
+        "1978-79",
+        "1979-80"
+      ],
+      "value": 7.5
+    },
+    {
+      "startDate": "1975-04-01",
+      "endDate": "1977-03-31",
+      "financialYears": [
+        "1975-76",
+        "1976-77"
+      ],
+      "value": 7
+    },
+    {
+      "startDate": "1974-08-01",
+      "endDate": "1975-03-31",
+      "financialYears": [
+        "1974-75"
+      ],
+      "value": 7
+    },
+    {
+      "startDate": "1974-04-01",
+      "endDate": "1974-07-31",
+      "financialYears": [
+        "1974-75"
+      ],
+      "value": 5.8
+    },
+    {
+      "startDate": "1973-04-01",
+      "endDate": "1974-03-31",
+      "financialYears": [
+        "1973-74"
+      ],
+      "value": 5.3
+    },
+    {
+      "startDate": "1970-04-01",
+      "endDate": "1973-03-31",
+      "financialYears": [
+        "1970-71",
+        "1971-72",
+        "1972-73"
+      ],
+      "value": 5
+    },
+    {
+      "startDate": "1968-04-01",
+      "endDate": "1970-03-31",
+      "financialYears": [
+        "1968-69",
+        "1969-70"
+      ],
+      "value": 4.8
+    }
+  ]
+}
