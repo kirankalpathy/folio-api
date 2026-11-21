@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "country": "IN",
+  "currency": "INR",
+  "generatedAt": "2026-11-21T13:05:00+05:30",
+  "entries": [
+    {
+      "category": "epfo",
+      "name": "Employees' Provident Fund Organisation",
+      "unit": "percent",
+      "accrualFrequency": "monthly",
+      "compounding": "annual",
+      "sources": [
+        {
+          "url": "https://inflationcalculator.in/learn/epf-interest-rate-history/",
+          "tag": "historical"
+        }
+      ],
+      "path": "data/epfo.json",
+      "lastUpdatedOn": "2026-11-21T13:05:00+05:30"
+    },
+    {
+      "category": "ppf",
+      "name": "Public Provident Fund",
+      "unit": "percent",
+      "accrualFrequency": "monthly",
+      "compounding": "annual",
+      "sources": [
+        {
+          "url": "https://www.nsiindia.gov.in/(S(k4xhqrim4nawnpuv5xb3ry55))/InternalPage.aspx?Id_Pk=178",
+          "tag": "historical"
+        }
+      ],
+      "path": "data/ppf.json",
+      "lastUpdatedOn": "2026-11-21T13:05:00+05:30"
+    }
+  ]
+}
