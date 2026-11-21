@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0.0",
+  "country": "IN",
+  "currency": "INR",
+  "generatedAt": "2026-11-21T12:45:00+05:30",
+  "schemes": [
+    {
+      "category": "epfo",
+      "name": "Employees' Provident Fund Organisation",
+      "unit": "percent",
+      "accrualFrequency": "monthly",
+      "compounding": "annual",
+      "path": "/data/interest-rates/epfo.json",
+      "lastUpdatedOn": "2026-11-21T12:41:00+05:30"
+    },
+    {
+      "category": "ppf",
+      "name": "Public Provident Fund",
+      "unit": "percent",
+      "accrualFrequency": "monthly",
+      "compounding": "annual",
+      "path": "/data/interest-rates/ppf.json",
+      "lastUpdatedOn": "2026-11-21T12:41:00+05:30"
+    }
+  ]
+}
